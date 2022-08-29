@@ -1,0 +1,12 @@
+LLL algorithm (my code describing <f64>)
+
+A matrix 3x3
+Input matrix:
+1 1 1 
+-1 0 2 
+3 5 6 
+
+Reduced matrix:
+0 1 0 
+1 0 1 
+-1 0 2 
